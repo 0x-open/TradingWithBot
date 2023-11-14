@@ -1,4 +1,4 @@
-## Welcome to mmb
+## Welcome to TradingWithBot
 Mmb is an open-source trading engine implemented in Rust
 
 ## Connectors
@@ -31,9 +31,3 @@ secret_key = "..."
 ```
 4. Execute `cargo build`
 5. Execute `cargo run`
-
-## Contributions
-
-We welcome contributions from the community:
-- **Code and documentation contributions** via [pull requests](https://github.com/purefinance/mmb/pulls)
-- **Bug reports and feature requests** through [Github issues](https://github.com/purefinance/mmb/issues)
